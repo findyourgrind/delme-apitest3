@@ -71,7 +71,8 @@
               "stars": 0,
               "totalStars":3,
               "imageUrl":"https://picsum.photos/id/1007/800/800",
-              "match":0.9
+              "match":0.9,
+              "lifestyles":["ls_analyzer", "ls_maker"]
           },
          {
               "badgeId": "461126jg1x8p9466ve7xtwhvny",
@@ -80,7 +81,8 @@
               "stars": 0,
               "totalStars":3,
               "imageUrl":"https://picsum.photos/id/1008/800/800",
-              "match":0.8
+              "match":0.8,
+              "lifestyles":["ls_healer", "ls_maker"]
           },
          {
               "badgeId": "461126jg1x8p9466ve7xtwhvny",
@@ -89,7 +91,8 @@
               "stars": 0,
               "totalStars":2,
               "imageUrl":"https://picsum.photos/id/1009/800/800",
-              "match":0.6
+              "match":0.6,
+              "lifestyles":["ls_analyzer", "ls_creator"]
           }
         ]
       },
@@ -164,7 +167,8 @@
               "stars": 0,
               "totalStars":3,
               "imageUrl":"https://picsum.photos/id/1027/800/800",
-              "match":0.55
+              "match":0.55,
+              "lifestyles":["ls_entrepreneur", "ls_creator"]
           },
          {
               "badgeId": "461126jg1x8p9466ve7xtwhvny",
@@ -173,7 +177,8 @@
               "stars": 0,
               "totalStars":3,
               "imageUrl":"https://picsum.photos/id/1028/800/800",
-              "match":0.44
+              "match":0.44,
+              "lifestyles":["ls_connector", "ls_creator"]
           },
          {
               "badgeId": "461126jg1x8p9466ve7xtwhvny",
@@ -182,7 +187,8 @@
               "stars": 0,
               "totalStars":3,
               "imageUrl":"https://picsum.photos/id/1029/800/800",
-              "match":0.33
+              "match":0.33,
+              "lifestyles":["ls_analyzer", "ls_creator"]
           }
         ]
       }

@@ -8,21 +8,24 @@
               "badgeName": "Talent in Body & Movement",
               "nextActivityId": "461126jg1x8p9466ve7xtwhvny-0",
               "stars": 0,
-              "imageUrl":"https://picsum.photos/id/1000/800/800"
+              "imageUrl":"https://picsum.photos/id/1000/800/800",
+              "description":"Short text"
           },
          {
               "badgeId": "461126jg1x8p9466ve7xtwhvny",
               "badgeName": "How to do stuff",
               "nextActivityId": "461126jg1x8p9466ve7xtwhvny-0",
               "stars": 0,
-              "imageUrl":"https://picsum.photos/id/1001/800/800"
+              "imageUrl":"https://picsum.photos/id/1001/800/800",
+              "description":"Short text2"
           },
          {
               "badgeId": "461126jg1x8p9466ve7xtwhvny",
               "badgeName": "How to do more stuff",
               "nextActivityId": "461126jg1x8p9466ve7xtwhvny-0",
               "stars": 1,
-              "imageUrl":"https://picsum.photos/id/1002/800/800"
+              "imageUrl":"https://picsum.photos/id/1002/800/800",
+              "description":"Longer text text text text"
           }
         ],
         "nextMentorActivities":[
@@ -31,21 +34,27 @@
               "badgeName": "Sheela Mahdavi",
               "nextActivityId": "461126jg1x8p9466ve7xtwhvny-0",
               "stars": 0,
-              "imageUrl":"https://picsum.photos/id/1004/800/800"
+              "imageUrl":"https://picsum.photos/id/1004/800/800",
+              "description":"Doctor",
+              "match":0.7
           },
          {
               "badgeId": "461126jg1x8p9466ve7xtwhvny",
               "badgeName": "Danny Evans",
               "nextActivityId": "461126jg1x8p9466ve7xtwhvny-0",
               "stars": 0,
-              "imageUrl":"https://picsum.photos/id/1005/800/800"
+              "imageUrl":"https://picsum.photos/id/1005/800/800",
+              "description":"Astronaut",
+              "match":0.8
           },
          {
               "badgeId": "461126jg1x8p9466ve7xtwhvny",
               "badgeName": "Bryce Blumi",
               "nextActivityId": "461126jg1x8p9466ve7xtwhvny-0",
               "stars": 0,
-              "imageUrl":"https://picsum.photos/id/1006/800/800"
+              "imageUrl":"https://picsum.photos/id/1006/800/800",
+              "description":"Pilot",
+              "match":0.8
           }
         ],
         "nextCareerActivities":[
@@ -54,21 +63,24 @@
               "badgeName": "Plumber",
               "nextActivityId": "461126jg1x8p9466ve7xtwhvny-0",
               "stars": 0,
-              "imageUrl":"https://picsum.photos/id/1007/800/800"
+              "imageUrl":"https://picsum.photos/id/1007/800/800",
+              "match":0.9
           },
          {
               "badgeId": "461126jg1x8p9466ve7xtwhvny",
               "badgeName": "Lawyer",
               "nextActivityId": "461126jg1x8p9466ve7xtwhvny-0",
               "stars": 0,
-              "imageUrl":"https://picsum.photos/id/1008/800/800"
+              "imageUrl":"https://picsum.photos/id/1008/800/800",
+              "match":0.8
           },
          {
               "badgeId": "461126jg1x8p9466ve7xtwhvny",
               "badgeName": "Systems Analyst",
               "nextActivityId": "461126jg1x8p9466ve7xtwhvny-0",
               "stars": 0,
-              "imageUrl":"https://picsum.photos/id/1009/800/800"
+              "imageUrl":"https://picsum.photos/id/1009/800/800",
+              "match":0.6
           }
         ]
       },
@@ -80,21 +92,24 @@
               "badgeName": "Talent in Body & Movement 2",
               "nextActivityId": "461126jg1x8p9466ve7xtwhvny-0",
               "stars": 1,
-              "imageUrl":"https://picsum.photos/id/1000/800/800"
+              "imageUrl":"https://picsum.photos/id/1000/800/800",
+              "description":"desc 2"
           },
          {
               "badgeId": "461126jg1x8p9466ve7xtwhvny",
               "badgeName": "How to do stuff 2",
               "nextActivityId": "461126jg1x8p9466ve7xtwhvny-0",
               "stars": 1,
-              "imageUrl":"https://picsum.photos/id/1001/800/800"
+              "imageUrl":"https://picsum.photos/id/1001/800/800",
+              "description":"desc 3"
           },
          {
               "badgeId": "461126jg1x8p9466ve7xtwhvny",
               "badgeName": "How to do more stuff 3",
               "nextActivityId": "461126jg1x8p9466ve7xtwhvny-0",
               "stars": 2,
-              "imageUrl":"https://picsum.photos/id/1002/800/800"
+              "imageUrl":"https://picsum.photos/id/1002/800/800",
+              "description":"lksdjf slkdjf lskdfj ssdfsdf"
           }
         ],
         "nextMentorActivities":[
@@ -103,21 +118,27 @@
               "badgeName": "Sheela Mahdavi 2",
               "nextActivityId": "461126jg1x8p9466ve7xtwhvny-0",
               "stars": 0,
-              "imageUrl":"https://picsum.photos/id/1015/800/800"
+              "imageUrl":"https://picsum.photos/id/1015/800/800",
+              "description":"Job 1",
+              "match":0.56
           },
          {
               "badgeId": "461126jg1x8p9466ve7xtwhvny",
               "badgeName": "John Doe",
               "nextActivityId": "461126jg1x8p9466ve7xtwhvny-0",
               "stars": 0,
-              "imageUrl":"https://picsum.photos/id/1017/800/800"
+              "imageUrl":"https://picsum.photos/id/1017/800/800",
+              "description":"Job 2",
+              "match":0.45
           },
          {
               "badgeId": "461126jg1x8p9466ve7xtwhvny",
               "badgeName": "Elvis Presley",
               "nextActivityId": "461126jg1x8p9466ve7xtwhvny-0",
               "stars": 0,
-              "imageUrl":"https://picsum.photos/id/1016/800/800"
+              "imageUrl":"https://picsum.photos/id/1016/800/800",
+              "description":"Job 3",
+              "match":0.33
           }
         ],
         "nextCareerActivities":[
@@ -126,21 +147,24 @@
               "badgeName": "Doctor",
               "nextActivityId": "461126jg1x8p9466ve7xtwhvny-0",
               "stars": 0,
-              "imageUrl":"https://picsum.photos/id/1027/800/800"
+              "imageUrl":"https://picsum.photos/id/1027/800/800",
+              "match":0.55
           },
          {
               "badgeId": "461126jg1x8p9466ve7xtwhvny",
               "badgeName": "Mechanic",
               "nextActivityId": "461126jg1x8p9466ve7xtwhvny-0",
               "stars": 0,
-              "imageUrl":"https://picsum.photos/id/1028/800/800"
+              "imageUrl":"https://picsum.photos/id/1028/800/800",
+              "match":0.44
           },
          {
               "badgeId": "461126jg1x8p9466ve7xtwhvny",
               "badgeName": "Bartender",
               "nextActivityId": "461126jg1x8p9466ve7xtwhvny-0",
               "stars": 0,
-              "imageUrl":"https://picsum.photos/id/1029/800/800"
+              "imageUrl":"https://picsum.photos/id/1029/800/800",
+              "match":0.33
           }
         ]
       }

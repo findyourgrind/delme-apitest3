@@ -194,5 +194,33 @@
           }
         ]
       }
-    ]
+    ],"nextCurriuculumActivities":[
+          {
+              "badgeId": "461126jg1x8p9466ve7xtwhvny",
+              "badgeName": "Talent in Body & Movement",
+              "nextActivityId": "461126jg1x8p9466ve7xtwhvny-0",
+              "stars": 0,
+              "totalStars":3,
+              "imageUrl":"https://picsum.photos/id/1000/800/800",
+              "description":"Short text"
+          },
+         {
+              "badgeId": "461126jg1x8p9466ve7xtwhvny",
+              "badgeName": "How to do stuff",
+              "nextActivityId": "461126jg1x8p9466ve7xtwhvny-0",
+              "stars": 0,
+              "totalStars":3,
+              "imageUrl":"https://picsum.photos/id/1001/800/800",
+              "description":"Short text2"
+          },
+         {
+              "badgeId": "461126jg1x8p9466ve7xtwhvny",
+              "badgeName": "How to do more stuff",
+              "nextActivityId": "461126jg1x8p9466ve7xtwhvny-0",
+              "stars": 1,
+              "totalStars":4,
+              "imageUrl":"https://picsum.photos/id/1002/800/800",
+              "description":"Longer text text text text"
+          }
+        ]
 }

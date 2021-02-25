@@ -2,7 +2,7 @@
 	"curriculums":[
 		{"id":1, "name":"curriculum 1"},
 		{"id":2, "name":"curriculum 2"},
-		{"id":3, "name":"curriculum 3"},
+		{"id":3, "name":"curriculum 3"}
 	],
 	"feed": [{
 			"id": 1,
